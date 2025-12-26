@@ -1,0 +1,7 @@
+{
+  "project_name": "mon-app",
+  "structure": {
+    "src": ["main.js", "utils.js"],
+    "tests": ["main.test.js"]
+  }
+}
