@@ -1,0 +1,13 @@
+Déroulement du projet:
+
+Étape 1:
+-prise en main du projet
+-Élaboration de la structure 
+-Génération de l'arborescnece
+
+Étape 2:
+-Intégration du LLM(plutot compliqué)
+-Éxécution du code(lent a cause de la taille des modules)
+
+Étape 3:
+-Non effectué par manque de compréhension du sujet
